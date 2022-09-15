@@ -1,0 +1,13 @@
+C:\xampp\htdocs\C#\ClassesConsoleProject\bin\Debug\netcoreapp3.1\ClassesConsoleProject.exe
+C:\xampp\htdocs\C#\ClassesConsoleProject\bin\Debug\netcoreapp3.1\ClassesConsoleProject.deps.json
+C:\xampp\htdocs\C#\ClassesConsoleProject\bin\Debug\netcoreapp3.1\ClassesConsoleProject.runtimeconfig.json
+C:\xampp\htdocs\C#\ClassesConsoleProject\bin\Debug\netcoreapp3.1\ClassesConsoleProject.runtimeconfig.dev.json
+C:\xampp\htdocs\C#\ClassesConsoleProject\bin\Debug\netcoreapp3.1\ClassesConsoleProject.dll
+C:\xampp\htdocs\C#\ClassesConsoleProject\bin\Debug\netcoreapp3.1\ClassesConsoleProject.pdb
+C:\xampp\htdocs\C#\ClassesConsoleProject\obj\Debug\netcoreapp3.1\ClassesConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C#\ClassesConsoleProject\obj\Debug\netcoreapp3.1\ClassesConsoleProject.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C#\ClassesConsoleProject\obj\Debug\netcoreapp3.1\ClassesConsoleProject.AssemblyInfo.cs
+C:\xampp\htdocs\C#\ClassesConsoleProject\obj\Debug\netcoreapp3.1\ClassesConsoleProject.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\ClassesConsoleProject\obj\Debug\netcoreapp3.1\ClassesConsoleProject.dll
+C:\xampp\htdocs\C#\ClassesConsoleProject\obj\Debug\netcoreapp3.1\ClassesConsoleProject.pdb
+C:\xampp\htdocs\C#\ClassesConsoleProject\obj\Debug\netcoreapp3.1\ClassesConsoleProject.genruntimeconfig.cache
